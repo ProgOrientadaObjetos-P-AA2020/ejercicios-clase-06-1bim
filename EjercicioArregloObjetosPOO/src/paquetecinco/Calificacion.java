@@ -18,6 +18,8 @@ public class Calificacion {
     public Calificacion(double n, String nombre) {
         nota = n;
         nombreMateria = nombre;
+        Profesor p1 = new Profesor("Connie Palmer", "contratado");
+        profesor = p1;
     }
 
     public void establecerNota(double n) {
