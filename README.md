@@ -3,8 +3,9 @@
 
 #### Tareas para luego de la clase
 
-- En el proyecto EjercicioArreglosPOO
-	- Agregar un paquete llamado paquetecuatro, para generar una nueva solución que permita agregar a la clase LibretaCalificacion atributos: universidad de tipo Universidad, carrera de tipo Carrera.
+##### En el proyecto EjercicioArreglosPOO
+
+- Agregar un paquete llamado paquetecuatro, para generar una nueva solución que permita agregar a la clase LibretaCalificacion atributos: universidad de tipo Universidad, carrera de tipo Carrera.
 
 ```Libreta de Calificaciones
 Universidad: UTPL - Loja
@@ -18,8 +19,7 @@ Promedio calificaciones: 9.07
 Promedio cuantitativo: Muy bueno
 Nota mínina: 8
 ```
-
- - Agregar un paquete llamado paquetecinco (en función de paquetecuatro), para generar una nueva solución que permita encontrar la nota mínima de la libreta de calificaciones. Reporte:
+- Agregar un paquete llamado paquetecinco (en función de paquetecuatro), para generar una nueva solución que permita encontrar la nota mínima de la libreta de calificaciones. Reporte:
 
 ```Libreta de Calificaciones
 Universidad: UTPL - Loja
@@ -33,14 +33,14 @@ Promedio calificaciones: 9.07
 Promedio cuantitativo: Muy bueno
 Nota mínina: 8
 ```
- - Agregar un paquete llamado paqueteseis (en función de paquetecuatro), para generar una nueva solución que permita guardar el reporte en un archivo.
+- Agregar un paquete llamado paqueteseis (en función de paquetecuatro), para generar una nueva solución que permita guardar el reporte en un archivo.
 
 
-- En el proyecto EjercicioArregloObjetosPOO
-	- Agregar un paquete llamado paquetecuatro:
-		- Agregar todas las clases en dicho paquete.
-		- A la clase Calificación agregar un atributo docente tipo Docente (nombre)
-		- Generar un nuevo reporte:
+##### En el proyecto EjercicioArregloObjetosPOO
+- Agregar un paquete llamado paquetecuatro:
+	- Agregar todas las clases en dicho paquete.
+	- A la clase Calificación agregar un atributo docente tipo Docente (nombre)
+	- Generar un nuevo reporte:
 
 ```Libreta de Calificaciones
 Nombre: Roger Williams
@@ -52,10 +52,10 @@ Promedio calificaciones: 9.07
 Promedio cuantitativo: Muy bueno
 ```
 
- - Agregar un paquete llamado paquetecinco:
-		- En base a la solución del paquetecuatro
-		- Generar un proceso que permita ingresar 4 objetos de tipo LibretaCalificacion (usar ciclo repetitivo)
-		- Generar un nuevo reporte:
+- Agregar un paquete llamado paquetecinco:
+	- En base a la solución del paquetecuatro
+	- Generar un proceso que permita ingresar 4 objetos de tipo LibretaCalificacion (usar ciclo repetitivo)
+	- Generar un nuevo reporte:
 
 ```Libreta de Calificaciones
 Nombre: Rachel Hernandez
