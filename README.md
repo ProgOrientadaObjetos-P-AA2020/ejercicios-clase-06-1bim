@@ -1,7 +1,7 @@
 # ejercicios-clase-06-1bim
 ### Programación Orientada a Objetos - Arreglos 
 
-#### Tareas
+#### Tareas para luego de la clase
 
 - En el proyecto EjercicioArreglosPOO
 	- Agregar un paquete llamado paquetecuatro, para generar una nueva solución que permita agregar a la clase LibretaCalificacion atributos: universidad de tipo Universidad, carrera de tipo Carrera.
